@@ -24,7 +24,7 @@
 #define OMV_JPEG_QUALITY_HIGH           (90)
 #define OMV_JPEG_QUALITY_THRESHOLD      (320 * 240 * 2)
 
-// Raw preview support.
+// Raw preview support for Lepton-sized images.
 #define OMV_RAW_PREVIEW_ENABLE          1
 #define OMV_RAW_PREVIEW_WIDTH           (160)
 #define OMV_RAW_PREVIEW_HEIGHT          (120)
