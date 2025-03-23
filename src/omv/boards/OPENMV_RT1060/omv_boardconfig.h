@@ -24,6 +24,11 @@
 #define OMV_JPEG_QUALITY_HIGH           (90)
 #define OMV_JPEG_QUALITY_THRESHOLD      (320 * 240 * 2)
 
+// Raw preview support.
+#define OMV_RAW_PREVIEW_ENABLE          1
+#define OMV_RAW_PREVIEW_WIDTH           (160)
+#define OMV_RAW_PREVIEW_HEIGHT          (120)
+
 // CSI drivers configuration.
 #define OMV_OV5640_ENABLE               (1)
 #define OMV_OV5640_AF_ENABLE            (1)
